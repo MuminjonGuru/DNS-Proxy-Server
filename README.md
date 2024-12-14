@@ -53,4 +53,7 @@ python dns_proxy.py --resolver 8.8.8.8:53
 - Implement caching for frequently queried domains.
 - Extend support for multi-question DNS queries.
 
+## Resources
+- [RFC Section 4.1.4](https://www.rfc-editor.org/rfc/rfc1035#section-4.1.4)
+- [DNS Guide](https://github.com/EmilHernvall/dnsguide/blob/b52da3b32b27c81e5c6729ac14fe01fef8b1b593/chapter1.md)
 
